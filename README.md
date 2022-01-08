@@ -2,7 +2,7 @@
 My goal is to make a day planner for users to use day to day.For user to see the day that it is currently. I want users to be able to save the data they inputed into time blocks for future needs.
 
 # Live Link
-
+https://olvera1208.github.io/work-day-scheduler/
 
 # My Work 
 inputed the date displayed
